@@ -439,7 +439,7 @@ input, select, textarea {
 
 		.row.gtr-0 {
 			margin-top: 0px;
-			margin-left: 0px;
+			margin-left: 16px;
 		}
 
 			.row.gtr-0 > * {
@@ -456,7 +456,7 @@ input, select, textarea {
 
 		.row.gtr-25 {
 			margin-top: -10px;
-			margin-left: -10px;
+			margin-left: 10px;
 		}
 
 			.row.gtr-25 > * {
@@ -473,7 +473,7 @@ input, select, textarea {
 
 		.row.gtr-50 {
 			margin-top: -20px;
-			margin-left: -20px;
+			margin-left: 20px;
 		}
 
 			.row.gtr-50 > * {
@@ -490,7 +490,7 @@ input, select, textarea {
 
 		.row {
 			margin-top: -40px;
-			margin-left: -40px;
+			margin-left: 40px;
 		}
 
 			.row > * {
@@ -507,7 +507,7 @@ input, select, textarea {
 
 		.row.gtr-150 {
 			margin-top: -60px;
-			margin-left: -60px;
+			margin-left: 60px;
 		}
 
 			.row.gtr-150 > * {
@@ -524,7 +524,7 @@ input, select, textarea {
 
 		.row.gtr-200 {
 			margin-top: -80px;
-			margin-left: -80px;
+			margin-left: 80px;
 		}
 
 			.row.gtr-200 > * {
