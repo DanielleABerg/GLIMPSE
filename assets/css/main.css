@@ -118,6 +118,7 @@ input, select, textarea {
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 /* 		color: inherit; */
 		color: #483949;
+		font-weight: 650;
 		text-decoration: none;
 		border-bottom-color: transparent;
 	}
