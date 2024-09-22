@@ -288,6 +288,7 @@ input, select, textarea {
   .column {
     width: 100%;
     display: block;
+    margin-left: 16px;
   }
 }
 
@@ -303,6 +304,7 @@ input, select, textarea {
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
+		justify-content: space-around;
 	}
 
 		.row > * {
