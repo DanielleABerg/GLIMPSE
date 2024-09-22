@@ -229,9 +229,9 @@ input, select, textarea {
 /* Container */
 
 	.container {
-		margin: 0 auto;
+		margin: 16px auto;
 		max-width: 100%;
-		width: 1400px;
+		width: 1200px;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -276,7 +276,7 @@ input, select, textarea {
 
 /* Three columns side by side */
 .column {
-  float: left;
+  float: center;
   width: 33.3%;
   margin-left: 16px
   margin-bottom: 16px;
